@@ -1,0 +1,6 @@
+This is a O(1) Python LRU cache implementation with the primary focus on performance.
+If you've got an idea how to get it better. Feel free to mail me vburenin @at gmail.com
+
+See tests for usage example. In basic cases the cache behaves like a dictionary, but there
+are no methods like keys(), itervalues() etc. For the basic use cases it is just enough.
+
